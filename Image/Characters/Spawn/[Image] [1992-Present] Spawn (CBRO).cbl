@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Image] [1992-Present] Spawn (CBRO)</Name>
-<NumIssues>616</NumIssues>
+<NumIssues>685</NumIssues>
 <Books>
 <Book Series="Spawn" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="4937" Issue="35666" />
