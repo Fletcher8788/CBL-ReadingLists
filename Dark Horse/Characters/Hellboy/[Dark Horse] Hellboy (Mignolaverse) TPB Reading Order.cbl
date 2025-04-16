@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Dark Horse] Hellboy (Mignolaverse) TPB Reading Order</Name>
-<NumIssues>101</NumIssues>
+<Name>Hellboy</Name>
+<NumIssues>104</NumIssues>
 <Books>
 <Book Series="Hellboy: Seed of Destruction" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="33634" Issue="218367" />
@@ -78,8 +78,8 @@
 <Book Series="Hellboy: The Bride of Hell and Others" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="30787" Issue="293415" />
 </Book>
-<Book Series="Hellboy: Weird Tales" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="78341" Issue="471280" />
+<Book Series="Hellboy Weird Tales" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="147439" Issue="964467" />
 </Book>
 <Book Series="Witchfinder: In the Service of Angels" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32436" Issue="204529" />
@@ -102,7 +102,7 @@
 <Book Series="Lobster Johnson: A Chain Forged In Life" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="109108" Issue="662047" />
 </Book>
-<Book Series="Lobster Johnson: The Pirate's Ghost and Metal Monsters of Midtown" Number="1" Volume="2017" Year="2017">
+<Book Series="Lobster Johnson: The Pirate&apos;s Ghost and Metal Monsters of Midtown" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="106888" Issue="646147" />
 </Book>
 <Book Series="Lobster Johnson: The Iron Prometheus" Number="1" Volume="2008" Year="2008">
@@ -120,8 +120,8 @@
 <Book Series="B.P.R.D.: 1948" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="67218" Issue="425008" />
 </Book>
-<Book Series="B.P.R.D.: Vampire" Number="1" Volume="2019" Year="2019">
-<Database Name="cv" Series="117329" Issue="701878" />
+<Book Series="B.P.R.D.: Vampire" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="69555" Issue="435017" />
 </Book>
 <Book Series="Young Hellboy: The Hidden Land" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="139491" Issue="888887" />
@@ -132,7 +132,7 @@
 <Book Series="Hellboy: The Midnight Circus" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="68517" Issue="430741" />
 </Book>
-<Book Series="Hellboy In Mexico" Number="1" Volume="2016" Year="2016">
+<Book Series="Hellboy in Mexico" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="89598" Issue="524985" />
 </Book>
 <Book Series="Frankenstein Underground" Number="1" Volume="2015" Year="2015">
@@ -153,8 +153,8 @@
 <Book Series="Hellboy: The Bones of Giants" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144965" Issue="946115" />
 </Book>
-<Book Series="The Amazing Screw-On Head and Other Curious Objects (Anniversary Edition)" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="144429" Issue="941529" />
+<Book Series="Amazing Screw-On Head and Other Curious Objects" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="35270" Issue="232564" />
 </Book>
 <Book Series="B.P.R.D.: Hell on Earth - New World" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="64095" Issue="413118" />
@@ -165,10 +165,10 @@
 <Book Series="B.P.R.D.: Hell On Earth - Russia" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="29625" Issue="350916" />
 </Book>
-<Book Series="B.P.R.D.: Hell on Earth - The Devil's Engine &#38; The Long Death" Number="1" Volume="2012" Year="2012">
+<Book Series="B.P.R.D.: Hell on Earth - The Devil&apos;s Engine &amp; The Long Death" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="54459" Issue="371191" />
 </Book>
-<Book Series="B.P.R.D. Hell On Earth: The Pickens County Horror &#38; Others" Number="1" Volume="2013" Year="2013">
+<Book Series="B.P.R.D. Hell On Earth: The Pickens County Horror &amp; Others" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="65370" Issue="417814" />
 </Book>
 <Book Series="B.P.R.D. Hell On Earth: The Return of the Master" Number="1" Volume="2013" Year="2013">
@@ -198,10 +198,10 @@
 <Book Series="Abe Sapien: Sacred Places" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="79551" Issue="476755" />
 </Book>
-<Book Series="B.P.R.D. Hell On Earth - The Devil's Wings" Number="1" Volume="2015" Year="2015">
+<Book Series="B.P.R.D. Hell On Earth - The Devil&apos;s Wings" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="80729" Issue="482650" />
 </Book>
-<Book Series="B.P.R.D. Hell On Earth: Flesh and Stone" Number="11" Volume="2015" Year="2015">
+<Book Series="B.P.R.D. Hell On Earth: Flesh and Stone" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="84749" Issue="500985" />
 </Book>
 <Book Series="B.P.R.D. Hell on Earth: The Exorcist" Number="1" Volume="2016" Year="2016">
@@ -249,11 +249,11 @@
 <Book Series="Rise of the Black Flame" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="101212" Issue="594075" />
 </Book>
-<Book Series="Crimson Lotus" Number="1" Volume="2019" Year="2019">
-<Database Name="cv" Series="120003" Issue="712973" />
-</Book>
 <Book Series="The House of Lost Horizons: A Sarah Jewell Mystery" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141703" Issue="908433" />
+</Book>
+<Book Series="Crimson Lotus" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="120003" Issue="712973" />
 </Book>
 <Book Series="Rasputin: The Voice of the Dragon" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112462" Issue="677846" />
@@ -270,7 +270,7 @@
 <Book Series="Hellboy: The Silver Lantern Club" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144964" Issue="946116" />
 </Book>
-<Book Series="The Visitor: How &#38; Why He Stayed" Number="1" Volume="2017" Year="2017">
+<Book Series="The Visitor: How &amp; Why He Stayed" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104829" Issue="626244" />
 </Book>
 <Book Series="Hellboy and the B.P.R.D.: 1955" Number="1" Volume="2018" Year="2018">
@@ -297,7 +297,7 @@
 <Book Series="Hellboy in Love" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="156316" Issue="1041941" />
 </Book>
-<Book Series="Panya: The Mummy's Curse" Number="1" Volume="2024" Year="2024">
+<Book Series="Panya: The Mummy&apos;s Curse" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="157531" Issue="1050660" />
 </Book>
 <Book Series="Miss Truesdale and the Fall of Hyperborea" Number="1" Volume="2024" Year="2024">
