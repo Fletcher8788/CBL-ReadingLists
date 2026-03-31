@@ -2175,11 +2175,11 @@
 <Book Series="Spider-Verse Team-Up" Number="1" Volume="2014" Year="2015">
 <Database Name="cv" Series="77941" Issue="469497" />
 </Book>
-<Book Series="Spider-Verse" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="82108" Issue="489327" />
+<Book Series="Spider-Verse" Number="1" Volume="2014" Year="2015">
+<Database Name="cv" Series="78047" Issue="469842" />
 </Book>
-<Book Series="Spider-Verse" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="82108" Issue="491530" />
+<Book Series="Spider-Verse" Number="2" Volume="2014" Year="2015">
+<Database Name="cv" Series="78047" Issue="475945" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="9" Volume="2014" Year="2015">
 <Database Name="cv" Series="73420" Issue="469487" />
@@ -3750,8 +3750,8 @@
 <Book Series="Silver Surfer" Number="15" Volume="2014" Year="2016">
 <Database Name="cv" Series="72582" Issue="506663" />
 </Book>
-<Book Series="Secret Wars, Too" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="93678" Issue="547290" />
+<Book Series="Secret Wars, Too" Number="1" Volume="2015" Year="2016">
+<Database Name="cv" Series="86122" Issue="506180" />
 </Book>
 </Books>
 <Matchers />

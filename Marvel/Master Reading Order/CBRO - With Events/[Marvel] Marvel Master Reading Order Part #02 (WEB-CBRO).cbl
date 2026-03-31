@@ -2127,8 +2127,8 @@
 <Book Series="The X-Men" Number="138" Volume="1963" Year="1980">
 <Database Name="cv" Series="2133" Issue="20751" />
 </Book>
-<Book Series="X-Men Annual" Number="14" Volume="1970" Year="1990">
-<Database Name="cv" Series="22988" Issue="107610" />
+<Book Series="X-Men Annual" Number="4" Volume="1970" Year="1980">
+<Database Name="cv" Series="22988" Issue="136137" />
 </Book>
 <Book Series="Man-Thing" Number="5" Volume="1979" Year="1980">
 <Database Name="cv" Series="3006" Issue="20530" />
@@ -2322,21 +2322,6 @@
 <Book Series="Doctor Strange" Number="50" Volume="1974" Year="1981">
 <Database Name="cv" Series="2676" Issue="21727" />
 </Book>
-<Book Series="Doctor Strange" Number="51" Volume="1974" Year="1982">
-<Database Name="cv" Series="2676" Issue="21927" />
-</Book>
-<Book Series="Doctor Strange" Number="52" Volume="1974" Year="1982">
-<Database Name="cv" Series="2676" Issue="22080" />
-</Book>
-<Book Series="Doctor Strange" Number="53" Volume="1974" Year="1982">
-<Database Name="cv" Series="2676" Issue="22228" />
-</Book>
-<Book Series="Doctor Strange" Number="54" Volume="1974" Year="1982">
-<Database Name="cv" Series="2676" Issue="22372" />
-</Book>
-<Book Series="Doctor Strange" Number="55" Volume="1974" Year="1982">
-<Database Name="cv" Series="2676" Issue="22516" />
-</Book>
 <Book Series="The Defenders" Number="92" Volume="1972" Year="1981">
 <Database Name="cv" Series="2569" Issue="21032" />
 </Book>
@@ -2372,6 +2357,21 @@
 </Book>
 <Book Series="The Defenders" Number="103" Volume="1972" Year="1982">
 <Database Name="cv" Series="2569" Issue="21855" />
+</Book>
+<Book Series="Doctor Strange" Number="51" Volume="1974" Year="1982">
+<Database Name="cv" Series="2676" Issue="21927" />
+</Book>
+<Book Series="Doctor Strange" Number="52" Volume="1974" Year="1982">
+<Database Name="cv" Series="2676" Issue="22080" />
+</Book>
+<Book Series="Doctor Strange" Number="53" Volume="1974" Year="1982">
+<Database Name="cv" Series="2676" Issue="22228" />
+</Book>
+<Book Series="Doctor Strange" Number="54" Volume="1974" Year="1982">
+<Database Name="cv" Series="2676" Issue="22372" />
+</Book>
+<Book Series="Doctor Strange" Number="55" Volume="1974" Year="1982">
+<Database Name="cv" Series="2676" Issue="22516" />
 </Book>
 <Book Series="Epic Illustrated" Number="1" Volume="1980" Year="1980">
 <Database Name="cv" Series="3049" Issue="20239" />

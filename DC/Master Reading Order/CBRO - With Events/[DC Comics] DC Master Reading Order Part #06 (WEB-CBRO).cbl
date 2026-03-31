@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #06 (WEB-CBRO)</Name>
 <NumIssues>1086</NumIssues>
@@ -438,230 +438,17 @@
 <Book Series="Action Comics" Number="828" Volume="1938" Year="2005">
 <Database Name="cv" Series="18005" Issue="111696" />
 </Book>
-<Book Series="Blackest Night: Tales of the Corps" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="27068" Issue="164031" />
+<Book Series="Detective Comics" Number="809" Volume="1937" Year="2005">
+<Database Name="cv" Series="18058" Issue="113405" />
 </Book>
-<Book Series="Blackest Night: Tales of the Corps" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="27068" Issue="164776" />
+<Book Series="Batman" Number="643" Volume="1940" Year="2005">
+<Database Name="cv" Series="796" Issue="122252" />
 </Book>
-<Book Series="Blackest Night: Tales of the Corps" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="27068" Issue="165440" />
+<Book Series="Detective Comics" Number="810" Volume="1937" Year="2005">
+<Database Name="cv" Series="18058" Issue="113406" />
 </Book>
-<Book Series="Titans" Number="15" Volume="2008" Year="2009">
-<Database Name="cv" Series="21159" Issue="164060" />
-</Book>
-<Book Series="Green Lantern" Number="43" Volume="2005" Year="2009">
-<Database Name="cv" Series="18216" Issue="163297" />
-</Book>
-<Book Series="Blackest Night" Number="0" Volume="2009" Year="2009">
-<Database Name="cv" Series="26266" Issue="155833" />
-</Book>
-<Book Series="Blackest Night" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="26266" Issue="164032" />
-</Book>
-<Book Series="Solomon Grundy" Number="7" Volume="2009" Year="2009">
-<Database Name="cv" Series="25902" Issue="169505" />
-</Book>
-<Book Series="Superman/Batman" Number="66" Volume="2003" Year="2010">
-<Database Name="cv" Series="10938" Issue="183776" />
-</Book>
-<Book Series="Superman/Batman" Number="67" Volume="2003" Year="2010">
-<Database Name="cv" Series="10938" Issue="187620" />
-</Book>
-<Book Series="Green Lantern Corps" Number="39" Volume="2006" Year="2009">
-<Database Name="cv" Series="18248" Issue="166886" />
-</Book>
-<Book Series="Green Lantern" Number="44" Volume="2005" Year="2009">
-<Database Name="cv" Series="18216" Issue="164775" />
-</Book>
-<Book Series="Blackest Night" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="26266" Issue="166823" />
-</Book>
-<Book Series="The Phantom Stranger" Number="42" Volume="1969" Year="2010">
-<Database Name="cv" Series="2437" Issue="193390" />
-</Book>
-<Book Series="Blackest Night: Batman" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="27386" Issue="166829" />
-</Book>
-<Book Series="Blackest Night: Superman" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="27470" Issue="167425" />
-</Book>
-<Book Series="Blackest Night: Titans" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="27563" Issue="168458" />
-</Book>
-<Book Series="Green Lantern" Number="45" Volume="2005" Year="2009">
-<Database Name="cv" Series="18216" Issue="168418" />
-</Book>
-<Book Series="Green Lantern Corps" Number="40" Volume="2006" Year="2009">
-<Database Name="cv" Series="18248" Issue="170632" />
-</Book>
-<Book Series="Blackest Night: Batman" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="27386" Issue="170525" />
-</Book>
-<Book Series="Blackest Night: Batman" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="27386" Issue="176015" />
-</Book>
-<Book Series="Blackest Night" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="26266" Issue="171404" />
-</Book>
-<Book Series="Blackest Night: Titans" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="27563" Issue="179005" />
-</Book>
-<Book Series="Adventure Comics" Number="4" Volume="2009" Year="2010">
-<Database Name="cv" Series="25643" Issue="183718" />
-</Book>
-<Book Series="Adventure Comics" Number="5" Volume="2009" Year="2010">
-<Database Name="cv" Series="25643" Issue="186662" />
-</Book>
-<Book Series="Justice League of America" Number="39" Volume="2006" Year="2010">
-<Database Name="cv" Series="18127" Issue="184828" />
-</Book>
-<Book Series="Justice League of America" Number="40" Volume="2006" Year="2010">
-<Database Name="cv" Series="18127" Issue="187617" />
-</Book>
-<Book Series="Blackest Night: Superman" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="27470" Issue="172420" />
-</Book>
-<Book Series="Blackest Night: Superman" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="27470" Issue="177668" />
-</Book>
-<Book Series="Suicide Squad" Number="67" Volume="1987" Year="2010">
-<Database Name="cv" Series="3815" Issue="191315" />
-</Book>
-<Book Series="Secret Six" Number="17" Volume="2008" Year="2010">
-<Database Name="cv" Series="22841" Issue="192446" />
-</Book>
-<Book Series="Secret Six" Number="18" Volume="2008" Year="2010">
-<Database Name="cv" Series="22841" Issue="196593" />
-</Book>
-<Book Series="Green Lantern" Number="46" Volume="2005" Year="2009">
-<Database Name="cv" Series="18216" Issue="173866" />
-</Book>
-<Book Series="Catwoman" Number="83" Volume="2002" Year="2010">
-<Database Name="cv" Series="7328" Issue="192320" />
-</Book>
-<Book Series="Green Lantern Corps" Number="41" Volume="2006" Year="2009">
-<Database Name="cv" Series="18248" Issue="176150" />
-</Book>
-<Book Series="The Outsiders" Number="24" Volume="2009" Year="2010">
-<Database Name="cv" Series="25804" Issue="183777" />
-</Book>
-<Book Series="The Outsiders" Number="25" Volume="2009" Year="2010">
-<Database Name="cv" Series="25804" Issue="187616" />
-</Book>
-<Book Series="Green Lantern" Number="47" Volume="2005" Year="2009">
-<Database Name="cv" Series="18216" Issue="179204" />
-</Book>
-<Book Series="Blackest Night" Number="4" Volume="2009" Year="2009">
-<Database Name="cv" Series="26266" Issue="179009" />
-</Book>
-<Book Series="Green Lantern" Number="48" Volume="2005" Year="2010">
-<Database Name="cv" Series="18216" Issue="184967" />
-</Book>
-<Book Series="Green Lantern Corps" Number="42" Volume="2006" Year="2010">
-<Database Name="cv" Series="18248" Issue="182580" />
-</Book>
-<Book Series="Blackest Night: The Flash" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="30162" Issue="185677" />
-</Book>
-<Book Series="R.E.B.E.L.S." Number="11" Volume="2009" Year="2010">
-<Database Name="cv" Series="25833" Issue="186723" />
-</Book>
-<Book Series="Doom Patrol" Number="4" Volume="2009" Year="2010">
-<Database Name="cv" Series="27258" Issue="181246" />
-</Book>
-<Book Series="Doom Patrol" Number="5" Volume="2009" Year="2010">
-<Database Name="cv" Series="27258" Issue="186831" />
-</Book>
-<Book Series="Booster Gold" Number="26" Volume="2007" Year="2010">
-<Database Name="cv" Series="19025" Issue="182940" />
-</Book>
-<Book Series="Booster Gold" Number="27" Volume="2007" Year="2010">
-<Database Name="cv" Series="19025" Issue="186736" />
-</Book>
-<Book Series="Teen Titans" Number="77" Volume="2003" Year="2010">
-<Database Name="cv" Series="10414" Issue="184796" />
-</Book>
-<Book Series="Teen Titans" Number="78" Volume="2003" Year="2010">
-<Database Name="cv" Series="10414" Issue="189489" />
-</Book>
-<Book Series="Weird Western Tales" Number="71" Volume="1972" Year="2010">
-<Database Name="cv" Series="2560" Issue="191314" />
-</Book>
-<Book Series="Starman" Number="81" Volume="1994" Year="2010">
-<Database Name="cv" Series="5259" Issue="193366" />
-</Book>
-<Book Series="The Power of SHAZAM!" Number="48" Volume="1995" Year="2010">
-<Database Name="cv" Series="5515" Issue="192298" />
-</Book>
-<Book Series="The Question" Number="37" Volume="1986" Year="2010">
-<Database Name="cv" Series="3805" Issue="195384" />
-</Book>
-<Book Series="Blackest Night: JSA" Number="2" Volume="2009" Year="2010">
-<Database Name="cv" Series="30673" Issue="194482" />
-</Book>
-<Book Series="Blackest Night: JSA" Number="3" Volume="2009" Year="2010">
-<Database Name="cv" Series="30673" Issue="198358" />
-</Book>
-<Book Series="Blackest Night: Wonder Woman" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="30163" Issue="185678" />
-</Book>
-<Book Series="Blackest Night" Number="5" Volume="2009" Year="2010">
-<Database Name="cv" Series="26266" Issue="184885" />
-</Book>
-<Book Series="Green Lantern Corps" Number="44" Volume="2006" Year="2010">
-<Database Name="cv" Series="18248" Issue="193357" />
-</Book>
-<Book Series="Green Lantern" Number="49" Volume="2005" Year="2010">
-<Database Name="cv" Series="18216" Issue="189481" />
-</Book>
-<Book Series="Blackest Night" Number="6" Volume="2009" Year="2010">
-<Database Name="cv" Series="26266" Issue="189810" />
-</Book>
-<Book Series="Adventure Comics" Number="7" Volume="2009" Year="2010">
-<Database Name="cv" Series="25643" Issue="196590" />
-</Book>
-<Book Series="Green Arrow" Number="30" Volume="2010" Year="2010">
-<Database Name="cv" Series="32002" Issue="200917" />
-</Book>
-<Book Series="Blackest Night: Wonder Woman" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="30163" Issue="191204" />
-</Book>
-<Book Series="Blackest Night: Wonder Woman" Number="3" Volume="2010" Year="2010">
-<Database Name="cv" Series="30163" Issue="195373" />
-</Book>
-<Book Series="Blackest Night: The Flash" Number="3" Volume="2010" Year="2010">
-<Database Name="cv" Series="30162" Issue="197542" />
-</Book>
-<Book Series="Atom and Hawkman" Number="46" Volume="1968" Year="2010">
-<Database Name="cv" Series="2387" Issue="194433" />
-</Book>
-<Book Series="Green Lantern Corps" Number="45" Volume="2006" Year="2010">
-<Database Name="cv" Series="18248" Issue="197534" />
-</Book>
-<Book Series="Green Lantern" Number="51" Volume="2005" Year="2010">
-<Database Name="cv" Series="18216" Issue="197529" />
-</Book>
-<Book Series="Blackest Night" Number="7" Volume="2009" Year="2010">
-<Database Name="cv" Series="26266" Issue="198282" />
-</Book>
-<Book Series="Green Lantern Corps" Number="46" Volume="2006" Year="2010">
-<Database Name="cv" Series="18248" Issue="200763" />
-</Book>
-<Book Series="Green Lantern" Number="52" Volume="2005" Year="2010">
-<Database Name="cv" Series="18216" Issue="201705" />
-</Book>
-<Book Series="Blackest Night" Number="8" Volume="2009" Year="2010">
-<Database Name="cv" Series="26266" Issue="202607" />
-</Book>
-<Book Series="Green Lantern Corps" Number="47" Volume="2006" Year="2010">
-<Database Name="cv" Series="18248" Issue="210667" />
-</Book>
-<Book Series="Villains United" Number="1" Volume="2005" Year="2005">
-<Database Name="cv" Series="18403" Issue="114548" />
-</Book>
-<Book Series="Batman: Gotham Knights" Number="66" Volume="2000" Year="2005">
-<Database Name="cv" Series="7207" Issue="141730" />
+<Book Series="Batman" Number="644" Volume="1940" Year="2005">
+<Database Name="cv" Series="796" Issue="122287" />
 </Book>
 <Book Series="Villains United" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="18403" Issue="117274" />
@@ -801,7 +588,7 @@
 <Book Series="Nightwing" Number="115" Volume="1996" Year="2006">
 <Database Name="cv" Series="5755" Issue="120306" />
 </Book>
-<Book Series="JSA Classified" Number="1" Volume="2005" Year="2005">
+<Book Series="JSA: Classified" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18120" Issue="106159" />
 </Book>
 <Book Series="JSA" Number="76" Volume="1999" Year="2005">
@@ -1008,13 +795,13 @@
 <Book Series="Catwoman" Number="51" Volume="2002" Year="2006">
 <Database Name="cv" Series="7328" Issue="109242" />
 </Book>
-<Book Series="JSA Classified" Number="5" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="5" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126496" />
 </Book>
-<Book Series="JSA Classified" Number="6" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="6" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126497" />
 </Book>
-<Book Series="JSA Classified" Number="7" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="7" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126499" />
 </Book>
 <Book Series="Hawkman" Number="46" Volume="2002" Year="2006">
@@ -1059,10 +846,10 @@
 <Book Series="JSA" Number="77" Volume="1999" Year="2005">
 <Database Name="cv" Series="6331" Issue="99199" />
 </Book>
-<Book Series="JSA Classified" Number="2" Volume="2005" Year="2005">
+<Book Series="JSA: Classified" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="18120" Issue="110710" />
 </Book>
-<Book Series="JSA Classified" Number="3" Volume="2005" Year="2005">
+<Book Series="JSA: Classified" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="18120" Issue="110711" />
 </Book>
 <Book Series="Adventures of Superman" Number="645" Volume="1987" Year="2005">
@@ -1188,7 +975,7 @@
 <Book Series="Wonder Woman" Number="223" Volume="1987" Year="2006">
 <Database Name="cv" Series="3824" Issue="107687" />
 </Book>
-<Book Series="JSA Classified" Number="4" Volume="2005" Year="2005">
+<Book Series="JSA: Classified" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18120" Issue="111276" />
 </Book>
 <Book Series="Infinite Crisis" Number="2" Volume="2005" Year="2006">
@@ -1251,10 +1038,10 @@
 <Book Series="Day of Vengeance: Infinite Crisis Special" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="24042" Issue="143052" />
 </Book>
-<Book Series="JSA Classified" Number="8" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="8" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126503" />
 </Book>
-<Book Series="JSA Classified" Number="9" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="9" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126505" />
 </Book>
 <Book Series="Batman" Number="648" Volume="1940" Year="2006">
@@ -1338,7 +1125,7 @@
 <Book Series="Teen Titans" Number="33" Volume="2003" Year="2006">
 <Database Name="cv" Series="10414" Issue="111169" />
 </Book>
-<Book Series="Infinite Crisis Secret Files" Number="1" Volume="2006" Year="2006">
+<Book Series="Infinite Crisis Secret Files 2006" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="21773" Issue="131296" />
 </Book>
 <Book Series="Batman Annual" Number="25" Volume="1961" Year="2006">
@@ -1707,16 +1494,16 @@
 <Book Series="52" Number="50" Volume="2006" Year="2007">
 <Database Name="cv" Series="18053" Issue="108606" />
 </Book>
-<Book Series="World War III" Number="1" Volume="2007" Year="2007">
+<Book Series="52/WW III" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18485" Issue="108562" />
 </Book>
-<Book Series="World War III" Number="2" Volume="2007" Year="2007">
+<Book Series="52/WW III" Number="2" Volume="2007" Year="2007">
 <Database Name="cv" Series="18485" Issue="108561" />
 </Book>
-<Book Series="World War III" Number="3" Volume="2007" Year="2007">
+<Book Series="52/WW III" Number="3" Volume="2007" Year="2007">
 <Database Name="cv" Series="18485" Issue="108560" />
 </Book>
-<Book Series="World War III" Number="4" Volume="2007" Year="2007">
+<Book Series="52/WW III" Number="4" Volume="2007" Year="2007">
 <Database Name="cv" Series="18485" Issue="108559" />
 </Book>
 <Book Series="52" Number="51" Volume="2006" Year="2007">
@@ -1755,28 +1542,28 @@
 <Book Series="Green Lantern Corps" Number="6" Volume="2006" Year="2007">
 <Database Name="cv" Series="18248" Issue="111455" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="1" Volume="2006" Year="2006">
+<Book Series="Ion" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="123323" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="2" Volume="2006" Year="2006">
+<Book Series="Ion" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134164" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="3" Volume="2006" Year="2006">
+<Book Series="Ion" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134165" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="4" Volume="2006" Year="2006">
+<Book Series="Ion" Number="4" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134169" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="5" Volume="2006" Year="2006">
+<Book Series="Ion" Number="5" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134172" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="6" Volume="2006" Year="2006">
+<Book Series="Ion" Number="6" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134173" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="7" Volume="2006" Year="2006">
+<Book Series="Ion" Number="7" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134174" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="8" Volume="2006" Year="2007">
+<Book Series="Ion" Number="8" Volume="2006" Year="2007">
 <Database Name="cv" Series="18143" Issue="134202" />
 </Book>
 <Book Series="Green Lantern Corps" Number="7" Volume="2006" Year="2007">
@@ -1788,7 +1575,7 @@
 <Book Series="Green Lantern Corps" Number="9" Volume="2006" Year="2007">
 <Database Name="cv" Series="18248" Issue="111463" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="9" Volume="2006" Year="2007">
+<Book Series="Ion" Number="9" Volume="2006" Year="2007">
 <Database Name="cv" Series="18143" Issue="134203" />
 </Book>
 <Book Series="Green Lantern" Number="14" Volume="2005" Year="2006">
@@ -1803,13 +1590,13 @@
 <Book Series="Green Lantern" Number="17" Volume="2005" Year="2007">
 <Database Name="cv" Series="18216" Issue="106713" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="10" Volume="2006" Year="2007">
+<Book Series="Ion" Number="10" Volume="2006" Year="2007">
 <Database Name="cv" Series="18143" Issue="106291" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="11" Volume="2006" Year="2007">
+<Book Series="Ion" Number="11" Volume="2006" Year="2007">
 <Database Name="cv" Series="18143" Issue="106638" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="12" Volume="2006" Year="2007">
+<Book Series="Ion" Number="12" Volume="2006" Year="2007">
 <Database Name="cv" Series="18143" Issue="107478" />
 </Book>
 <Book Series="Martian Manhunter" Number="1" Volume="2006" Year="2006">
@@ -2034,40 +1821,40 @@
 <Book Series="Detective Comics" Number="828" Volume="1937" Year="2007">
 <Database Name="cv" Series="18058" Issue="106433" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="1" Volume="2006" Year="2006">
+<Book Series="Trials of Shazam" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18200" Issue="107657" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="2" Volume="2006" Year="2006">
+<Book Series="Trials of Shazam" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="18200" Issue="107658" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="3" Volume="2006" Year="2006">
+<Book Series="Trials of Shazam" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="18200" Issue="106725" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="4" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="4" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="107659" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="5" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="5" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="106596" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="6" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="6" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="108762" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="7" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="7" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="110436" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="8" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="8" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="114441" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="9" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="9" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="116715" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="10" Volume="2006" Year="2008">
+<Book Series="Trials of Shazam" Number="10" Volume="2006" Year="2008">
 <Database Name="cv" Series="18200" Issue="120312" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="11" Volume="2006" Year="2008">
+<Book Series="Trials of Shazam" Number="11" Volume="2006" Year="2008">
 <Database Name="cv" Series="18200" Issue="122117" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="12" Volume="2006" Year="2008">
+<Book Series="Trials of Shazam" Number="12" Volume="2006" Year="2008">
 <Database Name="cv" Series="18200" Issue="126373" />
 </Book>
 <Book Series="Green Arrow" Number="60" Volume="2001" Year="2006">
@@ -2244,10 +2031,10 @@
 <Book Series="Superman" Number="666" Volume="1939" Year="2007">
 <Database Name="cv" Series="773" Issue="113798" />
 </Book>
-<Book Series="JSA Classified" Number="17" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="17" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="156066" />
 </Book>
-<Book Series="JSA Classified" Number="18" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="18" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="159041" />
 </Book>
 <Book Series="Checkmate" Number="6" Volume="1988" Year="1988">
@@ -2943,7 +2730,7 @@
 <Book Series="Justice Society of America" Number="22" Volume="2007" Year="2009">
 <Database Name="cv" Series="18052" Issue="149277" />
 </Book>
-<Book Series="Green Arrow and Black Canary Wedding Special" Number="1" Volume="2007" Year="2007">
+<Book Series="Green Arrow/Black Canary Wedding Special" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="19163" Issue="114650" />
 </Book>
 <Book Series="Green Arrow/Black Canary" Number="1" Volume="2007" Year="2007">
@@ -3222,28 +3009,28 @@
 <Book Series="Green Arrow/Black Canary" Number="15" Volume="2007" Year="2009">
 <Database Name="cv" Series="19240" Issue="145541" />
 </Book>
-<Book Series="Reign In Hell" Number="1" Volume="2008" Year="2008">
+<Book Series="Reign in Hell" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22465" Issue="134873" />
 </Book>
-<Book Series="Reign In Hell" Number="2" Volume="2008" Year="2008">
+<Book Series="Reign in Hell" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="22465" Issue="136816" />
 </Book>
-<Book Series="Reign In Hell" Number="3" Volume="2008" Year="2008">
+<Book Series="Reign in Hell" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="22465" Issue="139436" />
 </Book>
-<Book Series="Reign In Hell" Number="4" Volume="2008" Year="2008">
+<Book Series="Reign in Hell" Number="4" Volume="2008" Year="2008">
 <Database Name="cv" Series="22465" Issue="141327" />
 </Book>
-<Book Series="Reign In Hell" Number="5" Volume="2008" Year="2009">
+<Book Series="Reign in Hell" Number="5" Volume="2008" Year="2009">
 <Database Name="cv" Series="22465" Issue="143324" />
 </Book>
-<Book Series="Reign In Hell" Number="6" Volume="2008" Year="2009">
+<Book Series="Reign in Hell" Number="6" Volume="2008" Year="2009">
 <Database Name="cv" Series="22465" Issue="149011" />
 </Book>
-<Book Series="Reign In Hell" Number="7" Volume="2008" Year="2009">
+<Book Series="Reign in Hell" Number="7" Volume="2008" Year="2009">
 <Database Name="cv" Series="22465" Issue="150953" />
 </Book>
-<Book Series="Reign In Hell" Number="8" Volume="2008" Year="2009">
+<Book Series="Reign in Hell" Number="8" Volume="2008" Year="2009">
 <Database Name="cv" Series="22465" Issue="152825" />
 </Book>
 <Book Series="Joker" Number="1" Volume="2008" Year="2008">

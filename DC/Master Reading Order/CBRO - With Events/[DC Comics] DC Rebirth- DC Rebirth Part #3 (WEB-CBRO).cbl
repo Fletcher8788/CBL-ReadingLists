@@ -723,8 +723,8 @@
 <Book Series="Lois Lane" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120013" Issue="712954" />
 </Book>
-<Book Series="Lois Lane" Number="2" Volume="1986" Year="1986">
-<Database Name="cv" Series="3609" Issue="27202" />
+<Book Series="Lois Lane" Number="2" Volume="2019" Year="2019">
+<Database Name="cv" Series="120013" Issue="715221" />
 </Book>
 <Book Series="Lois Lane" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="120013" Issue="717925" />
@@ -2697,8 +2697,8 @@
 <Book Series="Dark Nights: Death Metal" Number="5" Volume="2020" Year="2021">
 <Database Name="cv" Series="127927" Issue="818625" />
 </Book>
-<Book Series="Dark Nights: Death Metal: The Multiverse Who Laughs" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="135831" Issue="846948" />
+<Book Series="Dark Nights: Death Metal: The Multiverse Who Laughs" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132160" Issue="819285" />
 </Book>
 <Book Series="Dark Nights: Death Metal The Secret Origin" Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="132670" Issue="821759" />
