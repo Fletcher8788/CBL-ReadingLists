@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] New 52 Reading Order- New Part #2 (WEB-CBRO)</Name>
 <NumIssues>606</NumIssues>
@@ -399,7 +399,7 @@
 <Book Series="Green Lantern: New Guardians" Number="22" Volume="2011" Year="2013">
 <Database Name="cv" Series="43007" Issue="417794" />
 </Book>
-<Book Series="Stormwatch" Number="0" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="0" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="355790" />
 </Book>
 <Book Series="Voodoo" Number="0" Volume="2011" Year="2012">
@@ -1797,16 +1797,16 @@
 <Book Series="Batwing" Number="21" Volume="2011" Year="2013">
 <Database Name="cv" Series="42602" Issue="408948" />
 </Book>
-<Book Series="All-Star Western" Number="21" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="21" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="413625" />
 </Book>
 <Book Series="Batwing" Number="22" Volume="2011" Year="2013">
 <Database Name="cv" Series="42602" Issue="415204" />
 </Book>
-<Book Series="All-Star Western" Number="22" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="22" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="418774" />
 </Book>
-<Book Series="All-Star Western" Number="23" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="23" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="423620" />
 </Book>
 <Book Series="Batwing" Number="23" Volume="2011" Year="2013">

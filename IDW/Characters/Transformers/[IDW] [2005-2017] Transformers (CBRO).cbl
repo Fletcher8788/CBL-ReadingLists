@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[IDW] [2005-2017] Transformers (CBRO)</Name>
 <NumIssues>324</NumIssues>
@@ -330,19 +330,19 @@
 <Book Series="The Transformers" Number="23" Volume="2009" Year="2011">
 <Database Name="cv" Series="29903" Issue="285555" />
 </Book>
-<Book Series="The Transformers: Last Stand Of The Wreckers" Number="1" Volume="2010" Year="2010">
+<Book Series="The Transformers: Last Stand of the Wreckers" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="31327" Issue="195083" />
 </Book>
-<Book Series="The Transformers: Last Stand Of The Wreckers" Number="2" Volume="2010" Year="2010">
+<Book Series="The Transformers: Last Stand of the Wreckers" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="31327" Issue="200798" />
 </Book>
-<Book Series="The Transformers: Last Stand Of The Wreckers" Number="3" Volume="2010" Year="2010">
+<Book Series="The Transformers: Last Stand of the Wreckers" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="31327" Issue="202224" />
 </Book>
-<Book Series="The Transformers: Last Stand Of The Wreckers" Number="4" Volume="2010" Year="2010">
+<Book Series="The Transformers: Last Stand of the Wreckers" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="31327" Issue="208964" />
 </Book>
-<Book Series="The Transformers: Last Stand Of The Wreckers" Number="5" Volume="2010" Year="2010">
+<Book Series="The Transformers: Last Stand of the Wreckers" Number="5" Volume="2010" Year="2010">
 <Database Name="cv" Series="31327" Issue="214958" />
 </Book>
 <Book Series="The Transformers Spotlight: Prowl" Number="1" Volume="2010" Year="2010">
@@ -492,7 +492,7 @@
 <Book Series="The Transformers: Robots in Disguise" Number="9" Volume="2012" Year="2012">
 <Database Name="cv" Series="45397" Issue="355831" />
 </Book>
-<Book Series="The Transformers: More Than Meets The Eye Annual 2012" Number="2012" Volume="2012" Year="2012">
+<Book Series="The Transformers: More Than Meets The Eye Annual 2012" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="52054" Issue="356754" />
 </Book>
 <Book Series="The Transformers: Robots in Disguise Annual 2012" Number="1" Volume="2012" Year="2012">

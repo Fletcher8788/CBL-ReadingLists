@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Darkseid War (WEB-CBRO)</Name>
 <NumIssues>18</NumIssues>
@@ -17,6 +17,9 @@
 </Book>
 <Book Series="Justice League" Number="43" Volume="2011" Year="2015">
 <Database Name="cv" Series="42488" Issue="497918" />
+</Book>
+<Book Series="Justice League" Number="44" Volume="2011" Year="2015">
+<Database Name="cv" Series="42488" Issue="501595" />
 </Book>
 <Book Series="Justice League" Number="45" Volume="2011" Year="2015">
 <Database Name="cv" Series="42488" Issue="503535" />
@@ -48,7 +51,7 @@
 <Book Series="Justice League" Number="48" Volume="2011" Year="2016">
 <Database Name="cv" Series="42488" Issue="516928" />
 </Book>
-<Book Series="Justice League: Darkseid War Special" Number="1" Volume="2016" Year="2016">
+<Book Series="Justice League Darkseid War Special" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="89370" Issue="523228" />
 </Book>
 <Book Series="Justice League" Number="49" Volume="2011" Year="2016">
